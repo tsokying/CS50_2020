@@ -1,6 +1,6 @@
 # CS50x - 2020 Solutions (Updating)
 
-As a record, and for the sake of the web, I would like to document my solutions of each problem sets. However, always try to code yourself first. If you do not know what CS50x is, it is a free version of Harvard CS50 course: <a href='https://cs50.harvard.edu/x/2020/'> CS50x< /a>
+As a record, and for the sake of the web, I would like to document my solutions of each problem sets. However, always try to code yourself first. If you do not know what CS50x is, it is a free version of Harvard CS50 course: <a href='https://cs50.harvard.edu/x/2020/'>CS50x
 
 ### [Week 1: C (pset1)](/pset1)
 <a href='https://cs50.harvard.edu/x/2020/psets/1/'>Link here</a>
