@@ -5,23 +5,23 @@ As a record, and for the sake of the web, I would like to document my solutions 
 You can click the <b>topic</b> to see my solutions.
 
 ### [Week 1: C (pset1)](/pset1)
-* Hello
-* Mario (more)
-* Credit
+* [Hello](/pset1/hello.c)
+* [Mario (more)](/pset1/mario.c)
+* [Credit](/pset1/credit.c)
 
 ### [Week 2: Arrays (pset2)](/pset2)
-* Readability
-* Substitution
+* [Readability](/pset2/readability.c)
+* [Substitution](/pset2/substitution.c)
 
 ### [Week 3: Algorithms (pset3)](/pset3)
-* Plurality
-* Tideman
+* [Plurality](/pset3/plurality.c)
+* [Tideman](/pset3/tideman.c)
 
 ### [Week 4: Memory (pset4)](/pset4)
-* Filter (more)
-* Recover
+* [Filter (more)](/pset4/filter)
+* [Recover](/pset4/recover)
 
-### [Week 5: Data Structures (pset5)](/pset5)
+### [Week 5: Data Structures (pset5)](/pset5/speller)
 * Speller
 
 ### [Week 6: Python (pset6)](/pset6)
