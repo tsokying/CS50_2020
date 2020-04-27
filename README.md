@@ -22,7 +22,7 @@ You can click the <b>topic</b> to see my solutions.
 * [Recover](/pset4/recover)
 
 ### [Week 5: Data Structures (pset5)](/pset5/speller)
-* Speller
+* [Speller](/pset5/speller)
 
 ### [Week 6: Python (pset6)](/pset6)
 * On progress
