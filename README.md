@@ -2,7 +2,7 @@
 
 As a record, and for the sake of the web, I would like to document my solutions of each problem sets. However, always try to code yourself first. If you do not know what CS50x is, it is a free version of Harvard CS50 course: <a href='https://cs50.harvard.edu/x/2020/'>CS50x</a>
   
-You can click the <b>topic</b> to see my solutions.
+You can click the <b>topic</b> to see the .c or .py file directly.
 
 ### [Week 1: C (pset1)](/pset1)
 * [Hello](/pset1/hello.c)
@@ -18,11 +18,15 @@ You can click the <b>topic</b> to see my solutions.
 * [Tideman](/pset3/tideman.c)
 
 ### [Week 4: Memory (pset4)](/pset4)
-* [Filter (more)](/pset4/filter)
-* [Recover](/pset4/recover)
+* [Filter (more)](/pset4/filter/helper.c)
+* [Recover](/pset4/recover/recover.c)
 
 ### [Week 5: Data Structures (pset5)](/pset5/speller)
-* [Speller](/pset5/speller)
+* [Speller](/pset5/dictionary.c)
 
 ### [Week 6: Python (pset6)](/pset6)
-* On progress
+* [Hello](/pset6/hello.py)
+* [Mario(more)](/pset6/mario.py)
+* [Credit](/pset6/credit.py)
+* [Readability](/pset6/readability.py)
+* [DNA](/pset6/dna.py)
