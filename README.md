@@ -26,7 +26,10 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 
 ### [Week 6: Python (pset6)](/pset6)
 * [Hello](/pset6/hello.py)
-* [Mario(more)](/pset6/mario.py)
+* [Mario (more)](/pset6/mario.py)
 * [Credit](/pset6/credit.py)
 * [Readability](/pset6/readability.py)
 * [DNA](/pset6/dna.py)
+
+### [Week 7: SQL (pset7)](/pset7)
+* Updating
