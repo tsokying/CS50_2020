@@ -33,3 +33,7 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 
 ### [Week 7: SQL (pset7)](/pset7)
 * [Movies](/pset7/movies)
+* [Houses](/pset7/houses)
+
+### [Week 8: Information (pset8)](/pset8)
+* To-be-update
