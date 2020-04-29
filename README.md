@@ -32,4 +32,4 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 * [DNA](/pset6/dna.py)
 
 ### [Week 7: SQL (pset7)](/pset7)
-* Updating
+* [Movies](/pset7/movies)
