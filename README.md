@@ -36,4 +36,5 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 * [Houses](/pset7/houses)
 
 ### [Week 8: Information (pset8)](/pset8)
-* [Homepage](/pset8/homepage)
+* [Homepage](/pset8/homepage)<br>
+Original version (Single Page Website): https://codepen.io/tsokying/full/WNQpxry
