@@ -11,8 +11,12 @@ html {
 
 /* nav bar */
 
-nav h4 {
+nav > h4 {
 	letter-spacing: 2px;
+}
+
+.nav-link:hover {
+	color: var(--color-main) !important;
 }
 
 /* welcome section */
@@ -54,16 +58,7 @@ nav h4 {
 	padding: 5rem 5rem;
 }
 
-#welcome-section > p {
-	color: #fff;
-	font-size: 1rem;
-	letter-spacing: 2px;
-	font-weight: 200;
-	position: relative;
-	margin-top: 9rem;
-}
-
-/* project section */
+/* coding section */
 
 .projects-section-header {
 	font-size: 4rem;
@@ -93,7 +88,7 @@ nav h4 {
 	color: var(--color-main);
 }
 
-/* project section 2 */
+/* graphic section  */
 
 #graphic img {
 	display: flex;
@@ -101,11 +96,9 @@ nav h4 {
 	align-items: center;
 	width: 100%;
 	object-fit: cover;
-	transition: ease-in-out 0.3s;
 }
 
 .img-box {
-	border: #000;
 	margin: 0.5rem;
 	display: block;
 	transition: ease-in-out 0.3s;
@@ -113,8 +106,36 @@ nav h4 {
 
 .img-box:hover {
 	transform: scale(1.1);
+	border: 3px solid var(--color-main);
 }
 
+/* photo section */
+#photo img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	object-fit: cover;
+}
+
+/* ui section */
+#ui img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	object-fit: cover;
+}
+
+#ui p {
+	margin: 1rem 8rem;
+}
+
+@media (min-width: 700px) {
+	#ui p {
+		margin: 1rem 5rem;
+	}
+}
 
 /* footer */
 
