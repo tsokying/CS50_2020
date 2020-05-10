@@ -1,0 +1,151 @@
+:root { 
+    --color-white: #F7F7F7;  /* 97% white */
+    --color-black: rgba(26, 26, 26);  /* 90% black */
+    --color-black-a: rgba(26, 26, 26, 0.7);
+    --color-main: #ff7f50;
+} 
+
+.main-color {
+	color: var(--color-main);
+}
+
+*, *::before, *::after { 
+    box-sizing: border-box; 
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* nav bar */
+
+nav h4 {
+	letter-spacing: 2px;
+}
+
+/* welcome section */
+
+#welcome-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: linear-gradient(-45deg, #ee7752, #e73c73, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: Gradient 6.18s ease-in-out infinite;
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+#welcome-section > h1 {
+	color: #fff;
+	font-size: 3rem;
+	letter-spacing: 2px;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 5rem;
+}
+
+#welcome-section > p {
+	color: #fff;
+	font-size: 1rem;
+	letter-spacing: 2px;
+	font-weight: 200;
+	position: relative;
+	margin-top: 9rem;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+/* project section */
+
+.projects-section-header {
+	font-size: 4rem;
+	text-align: center;
+	font-size: 26.18px;
+	margin: 3rem auto;
+}
+
+/* For passing FreeCodeCamp Test */
+@media (min-width: 900px) {
+  .projects-section-header {
+    font-size: 3rem;
+  }
+}
+
+img {
+	max-height: 230px;
+	width: 100%;
+	object-fit: cover;
+}
+
+.code {
+  color: var(--main-gray);
+  transition: color 0.3s ease-out;
+}
+
+.project:hover .project-title {
+  color: var(--color-main);
+}
+
+/* footer */
+
+footer h4 {
+	letter-spacing: 2px;
+}
+
+.footer-link {
+	color: var(--color-white);
+}
+
+.footer-link:hover {
+	color: var(--color-main);
+	text-decoration: none;
+}
+
+.fa {
+  color: var(--color-black);
+  background-color: var(--color-white);
+
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+
+  transition: transform .2s;
+}
+
+.fa:hover {
+	transform: scale(1.1);
+	color: var(--color-main);
+	text-decoration: none;
+}
+
+
+
