@@ -38,5 +38,5 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 ### [Week 8: Information (pset8)](/pset8)
 * [Homepage](/pset8/homepage)<br>
 Original version (Single Page Website): https://codepen.io/tsokying/full/WNQpxry
-* Flask, Database<br>
+* [Flask exercises (SQl, Database)](/pset8/flask_exercises)<br>
 I did those exercise WITHOUT using CS50 library!!! I used Flask and SQLite3 locally instead.
