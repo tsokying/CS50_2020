@@ -36,4 +36,4 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 * [Houses](/pset7/houses)
 
 ### [Week 8: Information (pset8)](/pset8)
-* To-be-update
+* [Homepage](/pset8/homepage)
