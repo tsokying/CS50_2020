@@ -37,7 +37,7 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 
 ### [Week 8: Web Track (pset8)](/pset8)
 * [Homepage](/pset8/homepage)<br>
-Original version (Single Page Website): https://codepen.io/tsokying/full/WNQpxry
+Original version (Single Page Website): [https://codepen.io/tsokying/full/WNQpxry](https://codepen.io/tsokying/full/WNQpxry)
 * [Flask exercises (SQl, Database)](/pset8/flask_exercises)<br>
 p.s. I did those exercise with Flask and SQLite3 locally, instead of on CS50 IDE.
 * [Finance](/pset7/finance)<br>
