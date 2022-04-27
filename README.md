@@ -1,4 +1,4 @@
-# CS50x - 2020 Solutions (Updating)
+# CS50x - 2020 Solutions
 
 As a record, and for the sake of the web, I would like to document my solutions of each problem sets. However, always try to code yourself first. If you do not know what CS50x is, it is a free version of Harvard CS50 course: <a href='https://cs50.harvard.edu/x/2020/'>CS50x</a>
   
@@ -40,5 +40,4 @@ You can click the <b>topic</b> to see the .c or .py file directly.
 Original version (Single Page Website): [https://tsokying.github.io](https://tsokying.github.io)
 * [Flask exercises (SQl, Database)](/pset8/flask_exercises)<br>
 p.s. I did those exercise with Flask and SQLite3 locally, instead of on CS50 IDE.
-* [Finance](/pset7/finance)<br>
-(On progress)
+* [Finance](/pset8/finance)<br>
